@@ -1,0 +1,19 @@
+Framwork utilisé:
+
+Laravel 5.4
+
+ligne de commande utilisées:
+
+php artisan serve
+php artisan make:controller  NomController --resource
+php artisan make:model       Nom  -m
+php artisan migrate
+
+
+
+Chemin des routes:
+
+localhost:8000/book         localhost:8000/book/create
+localhost:8000/customer     localhost:8000/customer/create
+localhost:8000/loan         localhost:8000/loan/create
+
